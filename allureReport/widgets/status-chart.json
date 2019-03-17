@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b998515c7b9bb7d9",
+  "name" : "test_marginCollection",
+  "time" : {
+    "start" : 1541411844730,
+    "stop" : 1541411907228,
+    "duration" : 62498
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

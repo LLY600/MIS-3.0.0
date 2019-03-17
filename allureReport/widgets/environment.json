@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "MIS 3.0 标准版" ],
+  "name" : "Version"
+}, {
+  "values" : [ "http://gowins.imwork.net:7088/" ],
+  "name" : "EnvironmentAddress"
+}, {
+  "values" : [ "chrome" ],
+  "name" : "Browser"
+} ]

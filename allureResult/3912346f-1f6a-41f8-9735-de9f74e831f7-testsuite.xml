@@ -1,0 +1,43 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541498898751" stop="1541498898757">
+  <name>test_01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541498898751" status="passed" stop="1541498898757">
+      <description>
+    这里是用例描述
+    </description>
+      <name>test_margin</name>
+      <attachments>
+        <attachment source="219b49c7-05fd-4746-bea5-edff31b3e0eb-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="4ddf0349-7855-40db-84b0-929e8b1c2313-attachment.txt" title="Captured stderr call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11116-MainThread"/>
+        <label name="host" value="lly-HP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541498898755" status="passed" stop="1541498898755">
+          <name>点击财务管理</name>
+          <title>点击财务管理</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541498898755" status="passed" stop="1541498898755">
+          <name>点击添加保证金</name>
+          <title>点击添加保证金</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541498898755" status="passed" stop="1541498898755">
+          <name>点击添加保证金</name>
+          <title>点击添加保证金</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

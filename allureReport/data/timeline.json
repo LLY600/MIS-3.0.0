@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "lly-HP",
+    "children" : [ {
+      "name" : "6052-MainThread",
+      "children" : [ {
+        "name" : "test_marginCollection",
+        "uid" : "b998515c7b9bb7d9",
+        "parentUid" : "1460319ffb67410b2516a93c50e31933",
+        "status" : "passed",
+        "time" : {
+          "start" : 1541411844730,
+          "stop" : 1541411907228,
+          "duration" : 62498
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1460319ffb67410b2516a93c50e31933"
+    } ],
+    "uid" : "bee7253be8ce951b06d0a67af8a4eb13"
+  } ]
+}

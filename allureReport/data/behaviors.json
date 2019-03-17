@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_marginCollection",
+    "uid" : "b998515c7b9bb7d9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541411844730,
+      "stop" : 1541411907228,
+      "duration" : 62498
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

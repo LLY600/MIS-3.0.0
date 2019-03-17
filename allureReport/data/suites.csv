@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_entrance.test_marginCollection","62498","
+	用例描述：测试保证金收取功能，共计3组测试数据。
+	"

@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_entrance",
+    "children" : [ {
+      "name" : "test_marginCollection",
+      "uid" : "b998515c7b9bb7d9",
+      "parentUid" : "f7bd8b74a8306f713b674805736bb834",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541411844730,
+        "stop" : 1541411907228,
+        "duration" : 62498
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f7bd8b74a8306f713b674805736bb834"
+  } ]
+}

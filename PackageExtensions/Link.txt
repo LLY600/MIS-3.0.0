@@ -1,0 +1,2 @@
+1.python库文件下载地址
+https://www.lfd.uci.edu/~gohlke/pythonlibs

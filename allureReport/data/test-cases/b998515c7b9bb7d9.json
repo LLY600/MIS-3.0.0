@@ -1,0 +1,322 @@
+{
+  "uid" : "b998515c7b9bb7d9",
+  "name" : "test_marginCollection",
+  "fullName" : "test_entrance.test_marginCollection",
+  "historyId" : "51aca2790928597198677af2de298989",
+  "time" : {
+    "start" : 1541411844730,
+    "stop" : 1541411907228,
+    "duration" : 62498
+  },
+  "description" : "\n\t用例描述：测试保证金收取功能，共计3组测试数据。\n\t",
+  "descriptionHtml" : "<pre><code>用例描述：测试保证金收取功能，共计3组测试数据。\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入账号",
+      "time" : {
+        "start" : 1541411858279,
+        "stop" : 1541411858453,
+        "duration" : 174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1541411858453,
+        "stop" : 1541411858594,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击登录按钮",
+      "time" : {
+        "start" : 1541411858594,
+        "stop" : 1541411858730,
+        "duration" : 136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击财务管理",
+      "time" : {
+        "start" : 1541411867292,
+        "stop" : 1541411867406,
+        "duration" : 114
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击保证金管理",
+      "time" : {
+        "start" : 1541411867406,
+        "stop" : 1541411867661,
+        "duration" : 255
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击保证金收取列表",
+      "time" : {
+        "start" : 1541411867661,
+        "stop" : 1541411867840,
+        "duration" : 179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击添加按钮",
+      "time" : {
+        "start" : 1541411872942,
+        "stop" : 1541411873144,
+        "duration" : 202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入商户名称",
+      "time" : {
+        "start" : 1541411875640,
+        "stop" : 1541411875799,
+        "duration" : 159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入合同号",
+      "time" : {
+        "start" : 1541411877317,
+        "stop" : 1541411877544,
+        "duration" : 227
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入收款日期",
+      "time" : {
+        "start" : 1541411878903,
+        "stop" : 1541411879085,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入本次收款金额",
+      "time" : {
+        "start" : 1541411880324,
+        "stop" : 1541411880423,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入收款金额",
+      "time" : {
+        "start" : 1541411885345,
+        "stop" : 1541411885445,
+        "duration" : 100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击保存按钮",
+      "time" : {
+        "start" : 1541411885445,
+        "stop" : 1541411885630,
+        "duration" : 185
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击确认按钮",
+      "time" : {
+        "start" : 1541411886131,
+        "stop" : 1541411886315,
+        "duration" : 184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ac3bc2b9d0b14920",
+      "name" : "登录账号",
+      "source" : "ac3bc2b9d0b14920.txt",
+      "type" : "text/plain",
+      "size" : 5
+    }, {
+      "uid" : "c09290d5622f3586",
+      "name" : "商户名称",
+      "source" : "c09290d5622f3586.txt",
+      "type" : "text/plain",
+      "size" : 8
+    }, {
+      "uid" : "f07db77cf2a027b2",
+      "name" : "合同名称",
+      "source" : "f07db77cf2a027b2.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "15c5c0a82397b1d2",
+      "name" : "收款日期",
+      "source" : "15c5c0a82397b1d2.txt",
+      "type" : "text/plain",
+      "size" : 10
+    }, {
+      "uid" : "6e48eab490e134f2",
+      "name" : "本次收款金额",
+      "source" : "6e48eab490e134f2.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "cceed187b66a477d",
+      "name" : "收款金额",
+      "source" : "cceed187b66a477d.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "1a44058d78152072",
+      "name" : "Captured stderr call",
+      "source" : "1a44058d78152072.txt",
+      "type" : "text/plain",
+      "size" : 1560
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 14,
+    "hasContent" : true,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "lly-HP"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6052-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_entrance"
+  }, {
+    "name" : "testClass",
+    "value" : "test_entrance"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_marginCollection"
+  }, {
+    "name" : "package",
+    "value" : "test_entrance"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b998515c7b9bb7d9.json",
+  "parameterValues" : [ ]
+}

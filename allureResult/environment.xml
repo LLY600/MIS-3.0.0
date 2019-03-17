@@ -1,0 +1,19 @@
+<ns0:environment xmlns:ns0="urn:model.commons.qatools.yandex.ru">
+  <id>8422541f-474d-4029-898e-cd9a06f5ba0f</id>
+  <name>Allure environment parameters</name>
+  <parameter>
+    <key>testVersion</key>
+    <name>testVersion</name>
+    <value>MIS 3.0 标准版</value>
+  </parameter>
+  <parameter>
+    <key>testEnvironmentAddress</key>
+    <name>testEnvironmentAddress</name>
+    <value>http://gowins.imwork.net:7088/</value>
+  </parameter>
+  <parameter>
+    <key>testBrowser</key>
+    <name>testBrowser</name>
+    <value>chrome</value>
+  </parameter>
+</ns0:environment>
